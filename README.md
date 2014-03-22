@@ -1,2 +1,12 @@
-MBGFW-BlackList
-===============
+
+# 枫叶香蕉被墙网站列表创建说明 2014/3/22 #
+
+
+##  特性 ##
+
+-  使用高效的判读域名是否被墙
+-  继续维护autoproxy停止的列表
+-  提交被墙网站地址:[https://code.google.com/p/maplebanana-proxy/issues/list](提交https://code.google.com/p/maplebanana-proxy/issues/list),我们会及时加入你提交的被墙网站,方便其他用户更新他的列表
+-  枫叶香蕉项目地址:[https://code.google.com/p/maplebanana-proxy](https://code.google.com/p/maplebanana-proxy)
+-  枫叶香蕉官网:[http://qilinspeed.us/](最新版翻墙软件下载)
+
